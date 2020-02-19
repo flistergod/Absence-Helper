@@ -1,0 +1,82 @@
+[ Projeto ]
+Protocolo de projeto
+1 mês do fim - relatório
+Gráfico semanal de presenças
+Falar com:
+Filipe Caldeira
+Filipe Sá
+Pedro Martins
+Prof de gestão
+Quental
+
+Explico o que estou a fazer e o que perguntar:
+Como é que eles tratam as faltas no dia a dia
+Como repetem esse mesmo processo antes de lançarem as notas ou antes de um exame
+Qual a maior dificuldade ou o mais chato de fazer
+Se fossem mudar o seu processo para um modo digital o que gostavam de ver, ou que facilitava essa transição.
+Já viram ou trabalharam com algo parecido?
+O que acharam? O que era mau ou estúpido?
+
+Como funciona o login do IPVStudent? -quental
+
+
+Entidades:
+Professor (id, e-mail, pass, )
+Aluno(id, e-mail, pass)
+Faltas
+Disciplinas/turnos(id, professor, horário, localização)
+Notificação (crítica e passiva)
+(Pop up, e-mail e SMS)
+(Assunto, body, link para redirecionar?)
+
+
+
+Funcionalidades:
+Login
+Aceder a perfil com dados pessoais onde estes podem ser alterados
+
+Aluno:
+Aceder a turnos
+
+Nos turnos teremos:
+Horário
+Professor
+Número de aulas
+ter 2 opções enable/disable para ativar e desativar notificações do turno
+2 tipos de notificação por turno:
+notificação casual - notificação pelo professor (mudança repentina de horário de uma certa aula, ou atraso do mesmo)
+notificação crítica - se o aluno faltar a esta, vai faltar 3 vezes consecutivas e faltam 5 min para a aula começar
+Número de faltas que este ainda pode dar
+
+
+Ter menu "próximas aulas"
+Que nesse dia aparecem as próximas aulas do mesmo dia e a hora de começo
+caso a aula comece daqui a 5 min, a hora fica a vermelho
+quando a aula estiver a decorrer, a hora desaperece e fica "live".
+a aula "live" pode ser clicada nos próximos 45 min para assinalar a presença com qr code
+esta não pode ser clicada se a aula ainda não começou, já acabou, passaram os 45 min, ou a localização do aluno não for a mesma que a aula
+
+
+
+Professor:
+
+menu Notificações:
+onde recebe notificações sobre alunos com faltas acumuladas e ao clicar nessa notificação, este é redirecionado para o perfil do aluno
+recebe o nº de alunos que faltaram a uma aula depois desta ter acabado e nessa notificação ao ser clicada podemos ver em concreto quem faltou
+
+Aceder a turnos
+Nos turnos teremos:
+Horário
+nº de alunos que ao clicado mostra um lista de alunos que redireciona ao perfil do aluno
+nº de aulas
+notificar alunos
+
+Opção "previsões":
+mostra um gráfico semanal de como têm sido as presenças nesse turno
+prevê quantos alunos vão faltar na próxima aula, semana  e mês
+
+
+No perfil do aluno:
+pode ver quantas vezes este já faltou ao turno, este pode notificar manualmente o aluno, mas se este já atingiu um certo nº de faltas
+aparece um botão que gera uma notificação (email, pop-up e sms) automática para que este venha falar com o professor para explicar a sua situação.
+
