@@ -1,0 +1,95 @@
+Perguntas:
+
+1. Como professor, o que gostaria de ver implementado?
+2. Gostava que esta plataforma tivesse um sistema de notificações?
+3. Já se deparou com um projeto destes?
+4. Como é a sua rotina em termos de colocar as presenças no moodle? Sente a necessidade um sistema mais automático?
+5. Será útil um aluno avisar que vai faltar à aula?
+6. Gostaria de ter previsões de faltas perante as aulas?
+7. Faz sentido mudar o aluno de turno na plataforma?
+8. O processo de assinalar a presença é através de qr code e gps, o que acha?
+
+
+Respostas:
+1.
+Caldeira:  Essencialmente, gostaria de ver implementado uma gestão automática das faltas dos alunos.
+
+Cunha:
+
+Frederico:
+
+Pedro:
+
+
+2. Sim, o moodle em termos de avisar uma alteração da hora ou sala de uma aula é incompleto
+Caldeira:
+
+Cunha:
+
+Frederico:
+
+Pedro:
+
+
+3.
+Caldeira: Sim, já trabalhei num projeto com 2 alunos em que em vez de qr code, era usado RFID, mas ste foi abandonado em termos de custos
+
+Cunha:
+
+Frederico:
+
+Pedro:
+
+
+4.
+Caldeira: Existem professores que gerem essas faltas no moodle diariamente e outros não, dependendo da sua disponibilidade, mas sim, era bom que o sistema 
+fosse mais rápido e automático.
+
+Cunha:
+
+Frederico:
+
+Pedro:
+
+
+5.
+Caldeira: Não, não traz utilidade saber se um aluno vem ou não à aula.
+
+Cunha:
+
+Frederico:
+
+Pedro:
+
+
+6.
+Caldeira: Não vejo porque não, teria de ser algo bastante visual, não acho que seja algo relevante, mas é interessante.
+
+Cunha:
+
+Frederico:
+
+Pedro:
+
+
+7.
+Caldeira: Sim, essa funcionalidade era interessante e muito mais fácil e organizada, mas não é preciso notificar o aluno para este confirmar, muda-se o aluno e acabou.
+
+Cunha:
+
+Frederico:
+
+Pedro:
+
+
+8.
+Caldeira: O qr code parece ser um processo rápido, mas em vez do gps aconselhava o uso de beacons, assim  não precisam de usar o gps que às vezes não é tão fiável,
+o professor não precisa de ir de lugar a lugar para validar o qr code e com o beacon podem confirmar a presença do aluno na sala de aula.
+Caso não consigam usar a localização ou qr code, tentem restringir ao pedir mais dados pessoais, de maneira a que o aluno não se sinta confortável a partilhar 
+esses dados com outras pessoas para assinarem por ele.
+
+Cunha:
+
+Frederico:
+
+Pedro:
