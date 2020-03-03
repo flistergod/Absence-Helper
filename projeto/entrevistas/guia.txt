@@ -14,72 +14,73 @@ Respostas:
 1.
 Caldeira:  Essencialmente, gostaria de ver implementado uma gestão automática das faltas dos alunos.
 
-Cunha:
+Cunha: A ideia da gestão de faltas através do qr code parece ser interessante, mas tens de ter cuidado com a localização
 
 Frederico:
 
-Pedro:
+Valter:
 
 
-2. Sim, o moodle em termos de avisar uma alteração da hora ou sala de uma aula é incompleto
-Caldeira:
+2. 
+Caldeira: Sim, o moodle em termos de avisar uma alteração da hora ou sala de uma aula é incompleto
 
-Cunha:
+Cunha: Sim, mas só notificações automáticas para os alunos em termos de faltas, pois o professor já consegue comunicar com os alunos através do moodle
 
 Frederico:
 
-Pedro:
+Valter:
 
 
 3.
 Caldeira: Sim, já trabalhei num projeto com 2 alunos em que em vez de qr code, era usado RFID, mas ste foi abandonado em termos de custos
 
-Cunha:
+Cunha: Não numa escola, mas já ouvi falar na net
 
 Frederico:
 
-Pedro:
+Valter:
 
 
 4.
 Caldeira: Existem professores que gerem essas faltas no moodle diariamente e outros não, dependendo da sua disponibilidade, mas sim, era bom que o sistema 
 fosse mais rápido e automático.
 
-Cunha:
+Cunha: (não perguntei)
 
 Frederico:
 
-Pedro:
+Valter:
 
 
 5.
 Caldeira: Não, não traz utilidade saber se um aluno vem ou não à aula.
 
-Cunha:
+Cunha: Não
 
 Frederico:
 
-Pedro:
+Valter:
 
 
 6.
 Caldeira: Não vejo porque não, teria de ser algo bastante visual, não acho que seja algo relevante, mas é interessante.
 
-Cunha:
+Cunha: Eu acho que não deverias implementar isso, porque não parece muito útil e ao mesmo tempo parece difícil de implementar, precisarias de uma base dados já com bas
+tantes dados.
 
 Frederico:
 
-Pedro:
+Valter:
 
 
 7.
 Caldeira: Sim, essa funcionalidade era interessante e muito mais fácil e organizada, mas não é preciso notificar o aluno para este confirmar, muda-se o aluno e acabou.
 
-Cunha:
+Cunha: Não, esta plataforma deveria só estabelecer-se perante as faltas.
 
 Frederico:
 
-Pedro:
+Valter:
 
 
 8.
@@ -88,8 +89,10 @@ o professor não precisa de ir de lugar a lugar para validar o qr code e com o b
 Caso não consigam usar a localização ou qr code, tentem restringir ao pedir mais dados pessoais, de maneira a que o aluno não se sinta confortável a partilhar 
 esses dados com outras pessoas para assinarem por ele.
 
-Cunha:
+Cunha: O qr code é uma solução bastante interessante, é pena a powerapps não ter suporte para beacons, mas tens de ter cuidado porque o gps não funciona muito bem in 
+door, podes sempre pensar no IP do aluno.
 
 Frederico:
 
-Pedro:
+
+Valter:

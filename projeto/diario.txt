@@ -1,0 +1,15 @@
+Diário
+11/02 - pensar no projeto e reunião com david e filipe sobre como começar o relatório e o projeto
+12/02 - escrever todas as ideias sobre o projeto
+13/02 - estrutura inicial do projeto
+18/02 - funcionalidades
+19/02 - casos de uso
+20/02 - casos de uso e diagramas
+21/02 - casos de uso e diagramas
+24/02 - prototipo baixa fidelidade e entrevista com filipe caldeira e reunião com filipe 
+25/02 - prototipo baixa e alta fidelidade
+26/02 - prototipo alta fidelidade, user stories, powerapps beginner tutorial
+27/02 - power apps (navegação da app) e entrevista com o cunha
+01/03 - reunião com o filipe e entrevista com o fred
+05/03 - entrevista com o valter
+
