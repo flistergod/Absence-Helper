@@ -11,5 +11,17 @@ Diário
 26/02 - prototipo alta fidelidade, user stories, powerapps beginner tutorial
 27/02 - power apps (navegação da app) e entrevista com o cunha
 01/03 - reunião com o filipe e entrevista com o fred
+02/03 - aprendizagem de soluções power apps
+03/03 - criação de solução com a nova trial
 05/03 - entrevista com o valter
-
+09/03 - screens do aluno, e criação de entidades na bd
+10/03 - perfil prof
+11/03 - perfil aluno e identificação do user
+16/03 - reunião teams
+17/03 - screen disciplinas registadas
+18/03 - screen disciplinas registadas
+23/03 - conversão da hora da disciplina
+24/03 - import da base de dados
+25/03 - filter aulas do dia e depois da hora atual
+28/03 - colletions
+29/03 - colletion, addcolumns

@@ -1,0 +1,72 @@
+entidades:
+aulas - talvez não
+disciplinas
+aluno
+professor
+notificação
+Semana
+
+Novas Tabelas:
+Aluno-Disciplinas - nº alunos de disciplina COUNT
+Prof-Disciplinas - prof e gabinete deste no perfil disciplina
+
+Aluno e Prof - Users (adicionar campos)
+
+
+Disciplinas:
+Id_Disciplina
+Nome
+turno 
+numero_aulas
+
+
+
+Semana:
+Id_semana
+Id_Disciplina
+Sala
+Hora_Inicio
+Hora_Fim
+Dia_semana
+
+Aluno: (atributos a mais)
+Nome
+Escola
+Tipo_user
+Imagem
+Nome_completo
+Telefone
+Morada
+Localidade
+Código_Postal
+Idade
+Número_mecanográfico
+Email_escolar
+
+Prof - same
+
+Notificação
+Id_notificação
+Titulo
+Hora
+Emissor
+Destinatário
+Corpo
+Visualizada (boolean)
+
+Screen aulas:
+query - Disciplinas do dia da semana de hoje, select Nome, Hora_Inicio from disciplinas inner join semana
+
+32 semanas - 64 práticas e 32 teóricas
+
+
+
+
+
+
+
+
+
+
+
+

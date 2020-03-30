@@ -1,0 +1,47 @@
+2º semestre:
+
+1º ano:
+MD - T1, T2, TP1, TP2, TP3, TP4
+RC1 - T, P1, P2, P3, P4, P5,
+ED -T, P1, P2, P3, P4, P5,  
+AC - T, P1, P2, P3, P4, P5
+MA - TP1, TP2, TP3, TP4, P1, P2, P3, P4,
+
+
+Matemática Discreta
+Arquiteturas de Computador
+Matemática Aplicada
+Redes de ComunicWação I
+Estruturas de Dados
+
+
+
+2º ANO:
+BD1 - T, TP1, TP2, TP3, TP4, P1, P2, P3, P4
+RC2 - T, P1, P2, P3, P4
+PDM - T, P1, P2, P3
+AI2 - T, P1, P2, P3, P4
+PINT - P1, P2, P3
+ES1 - T, P1, P2, P3, P4
+
+Engenharia de Software I
+Base de Dados I
+Aplicações para a Internet II
+Redes de Comunicação II
+Programação para Dispositivos Móveis
+Projeto Integrado
+
+3º ano:
+EGE - TP1, TP2
+ES2 - T, P1, P2, P3
+IA - T, P1, P2 ,P3
+
+Inteligência Artificial
+Engenharia de Software II
+Empreendedorismo e Gestão de Empresas
+
+
+total: 78 disciplinas
+
+
+
