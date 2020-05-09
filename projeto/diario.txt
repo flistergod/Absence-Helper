@@ -25,3 +25,7 @@ Diário
 25/03 - filter aulas do dia e depois da hora atual
 28/03 - colletions
 29/03 - colletion, addcolumns
+31/03 -  permissão de criação de aula através do tempo
+6/04 -  criação de registos de aulas
+7/03 -   implementação da api de qr code da google e implementação deqr code do lado do professor e criação de registos de faltas 
+8/03 -   ajustes da live da aula em tempo real e  implementação da leitura deqr code no lado do aluno com localização
